@@ -1,0 +1,2 @@
+(this["webpackJsonptest-runa"]=this["webpackJsonptest-runa"]||[]).push([[0],[,,,function(n,t,e){n.exports=e(10)},,,,,function(n,t,e){},function(n,t,e){},function(n,t,e){"use strict";e.r(t);var r=e(0),a=e.n(r),c=e(2),o=e.n(c);e(8),e(9);var s=function(){return a.a.createElement("div",{className:"App"},"Holi")};o.a.render(a.a.createElement(s,null),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.5b01f8ed.chunk.js.map

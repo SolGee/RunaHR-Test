@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RunaHR-Test/static/css/main.d1b05096.chunk.css",
+    "main.js": "/RunaHR-Test/static/js/main.5b01f8ed.chunk.js",
+    "main.js.map": "/RunaHR-Test/static/js/main.5b01f8ed.chunk.js.map",
+    "runtime-main.js": "/RunaHR-Test/static/js/runtime-main.ee95b44b.js",
+    "runtime-main.js.map": "/RunaHR-Test/static/js/runtime-main.ee95b44b.js.map",
+    "static/js/2.01c11253.chunk.js": "/RunaHR-Test/static/js/2.01c11253.chunk.js",
+    "static/js/2.01c11253.chunk.js.map": "/RunaHR-Test/static/js/2.01c11253.chunk.js.map",
+    "index.html": "/RunaHR-Test/index.html",
+    "precache-manifest.66d09fe8236cfe541b05b3bc3fd5f42c.js": "/RunaHR-Test/precache-manifest.66d09fe8236cfe541b05b3bc3fd5f42c.js",
+    "service-worker.js": "/RunaHR-Test/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/RunaHR-Test/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.01c11253.chunk.js.LICENSE": "/RunaHR-Test/static/js/2.01c11253.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee95b44b.js",
+    "static/js/2.01c11253.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.5b01f8ed.chunk.js"
+  ]
+}
